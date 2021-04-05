@@ -3,6 +3,7 @@
 - I am a pragmatic programmer.
 - I don't chase new technologies blindly.
 - I like [Elixir](https://elixir-lang.org/), [Nix](https://nixos.org/) and [Emacs](https://www.gnu.org/software/emacs/).
+- I [contribute to open source projects](https://github.com/pulls?q=is%3Apr+author%3Ac4710n) (need login to view).
 
 ## The Career Plan
 
