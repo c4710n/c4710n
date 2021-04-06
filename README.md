@@ -49,7 +49,7 @@ Projects created with my own framework - [ft](https://github.com/yiiz/ft):
 
 ### 2017.03 ~ 2017.09 | Backend Developer
 
-Learn to be a backend developer writing [Node.js](https://nodejs.org/). Struggled in its misshapen and unprofessional ecology.
+Learn to be a backend developer writing [Node.js](https://nodejs.org/). Struggled in its immature ecology.
 
 ### 2016.04 ~ 2017.02 | Traveler
 
