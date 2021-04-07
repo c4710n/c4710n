@@ -9,7 +9,7 @@
 
 Elixir makes me feel settled, and I will spend my next decade(2021-2030) on Elixir and Erlang/OTP.
 
-From 2019, I started to use a top-down approach to [learning Elixir in my spare time](./learning.md).
+From 2019, I started to [learn Elixir using a top-down approach](./learning.md) in my spare time.
 
 ## The Good, Old and Confused Time
 
