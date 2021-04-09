@@ -1,3 +1,6 @@
+> Reading is still the best way to learn.
+> It helps me to build a structure of knowledge.
+
 - Learn basic Elixir
   - [x] Read [Elixir School](https://elixirschool.com/en/), understand basic syntax
 - Learn to write traditional MVC application
