@@ -15,13 +15,15 @@
 
 ## Learn to write real-time application
 
-- [ ] [Programming LiveView](https://pragprog.com/titles/liveview/programming-phoenix-liveview/)
-- [ ] Real-Time Phoenix
+- [x] [Programming LiveView](https://pragprog.com/titles/liveview/programming-phoenix-liveview/) - Part 1 / 2 / 3
+- [ ] [Real-Time Phoenix](https://pragprog.com/titles/sbsockets/real-time-phoenix/)
 
 ## Learn Elixir in depth
 
-- [ ] Elixir in Action
-- [ ] Metaprogramming Elixir (SKIP FOR NOW)
+- [ ] [READING] [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition)
+- [ ] [SKIP FOR NOW] [Metaprogramming Elixir](https://pragprog.com/titles/cmelixir/metaprogramming-elixir/)
+
+> Currently, I mainly write business logic, basic understanding about macro is enough. I skip learning it for now.
 
 ## Learn to design Elixir Systems with OTP
 
