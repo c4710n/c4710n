@@ -14,6 +14,8 @@ Projects created with my own framework - [ft](https://github.com/yiiz/ft):
 
 Learn to be a backend developer writing [Node.js](https://nodejs.org/). Struggled in its immature ecology.
 
+> Now, [I don't want to use Node.js for real projects anymore](https://acco.io/i-escaped-node).
+
 ## 2016.04 ~ 2017.02 | Traveler
 
 Traveled around China. Learn [Node.js](https://nodejs.org/) and Web Technologies. Tried to be an indie hacker.
