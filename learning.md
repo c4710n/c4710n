@@ -30,6 +30,11 @@
 - [ ] The Little Elixir OTP Guidebook
 - [ ] Designing Elixir Systems with OTP
 
+## Testing
+
+- [ ] Testing Elixir
+- [ ] Property-Based Testing with PropEr, Erlang, and Elixir
+
 ## More
 
 - [ ] Learn Functional Programming with Elixir
