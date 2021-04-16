@@ -7,6 +7,7 @@
 
 ## Side Projects
 
+- 文鸟 (Building)
 - [Elixir China](https://elixir-china.club/)
 
 ## The Career Plan
