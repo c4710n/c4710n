@@ -1,9 +1,9 @@
 :metal: Hello, There!
 
-- I am a pragmatic programmer.
-- I don't chase new technologies blindly.
+- I am a pragmatic programmer who don't chase new technologies blindly.
 - I like [Elixir](https://elixir-lang.org/), [Nix](https://nixos.org/) and [Emacs](https://www.gnu.org/software/emacs/).
 - I [contribute to open source projects](https://github.com/pulls?q=is%3Apr+author%3Ac4710n) (need login to view).
+- I participate in discussions in [Elixir Forum](https://elixirforum.com/u/c4710n/summary).
 
 ## Side Projects
 
