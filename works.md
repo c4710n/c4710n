@@ -12,9 +12,7 @@ Projects created with my own framework - [ft](https://github.com/yiiz/ft):
 
 ## 2017.03 ~ 2017.09 | Backend Developer
 
-Learn to be a backend developer writing [Node.js](https://nodejs.org/). Struggled in its immature ecology.
-
-> Now, [I don't want to use Node.js for real projects anymore](https://acco.io/i-escaped-node).
+Learn to be a backend developer writing [Node.js](https://nodejs.org/) in a startup company.
 
 ## 2016.04 ~ 2017.02 | Traveler
 
