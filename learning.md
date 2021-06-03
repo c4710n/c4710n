@@ -20,14 +20,14 @@
 
 ## Learn Elixir in depth
 
-- [ ] [READING] [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition)
+- [x] [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition)
 - [ ] [SKIP FOR NOW] [Metaprogramming Elixir](https://pragprog.com/titles/cmelixir/metaprogramming-elixir/)
 
 > Currently, I mainly write business logic, basic understanding about macro is enough. I skip learning it for now.
 
 ## Learn to design Elixir Systems with OTP
 
-- [ ] The Little Elixir OTP Guidebook
+- [ ] [READING] The Little Elixir OTP Guidebook
 - [ ] Designing Elixir Systems with OTP
 
 ## Functional Programming
