@@ -1,8 +1,8 @@
 <section>
   <!-- this is not a sementic HTML, but that's fine -->
-  <h3 align="center">
-    <span title="about my rock & roll life">🤘</span>
-  </h3>
+  <p align="center">
+    𝗮𝗯𝗼𝘂𝘁 𝗺𝗲
+  </p>
   <p align="center">
     <a href="https://www.rising.land/">intro</a>
     ·
@@ -18,9 +18,9 @@
 
 <section>
   <!-- this is not a sementic HTML, but that's fine -->
-  <h3 align="center">
-    <span title="preferred stack">⚙️</span>
-  </h3>
+  <p align="center">
+    𝗽𝗿𝗲𝗳𝗲𝗿𝗿𝗲𝗱 𝘀𝘁𝗮𝗰𝗸
+  </p>
   <p align="center">
     <a href="https://elixir-lang.org/">Elixir</a>
     ·
