@@ -19,7 +19,7 @@
 <section>
   <!-- this is not a sementic HTML, but that's fine -->
   <h3 align="center">
-    <span title="preferred stack">🛠️</span>
+    <span title="preferred stack">⚙️</span>
   </h3>
   <p align="center">
     <a href="https://elixir-lang.org/">Elixir</a>
