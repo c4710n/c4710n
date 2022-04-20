@@ -1,3 +1,8 @@
+<!--
+  Unicode blocks:
+  + Mathematical Alphanumeric Symbols
+-->
+
 <section>
   <!-- this is not a sementic HTML, but that's fine -->
   <p align="center">
