@@ -14,8 +14,6 @@
     <a href="https://www.rising.land/posts">𝚙𝚘𝚜𝚝𝚜</a>
     ·
     <a href="https://www.rising.land/careers">𝚌𝚊𝚛𝚎𝚎𝚛𝚜</a>
-    ·
-    <a href="https://github.com/c4710n?tab=repositories&q=&type=&language=&sort=stargazers">𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜</a>
   </p>
 </section>
 
@@ -32,5 +30,17 @@
     <a href="https://tailwindcss.com/">𝚃𝚊𝚒𝚕𝚠𝚒𝚗𝚍 𝙲𝚂𝚂</a>
     ·
     <a href="https://alpinejs.dev/">𝙰𝚕𝚙𝚒𝚗𝚎.𝚓𝚜</a>
+  </p>
+</section>
+
+<section>
+  <!-- this is not a sementic HTML, but that's fine -->
+  <p align="center">
+    𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+  </p>
+  <p align="center">
+    <a href="https://github.com/cozy-elixir">𝙲𝚘𝚣𝚢 𝙴𝚕𝚒𝚡𝚒𝚛</a>
+    ·
+    <a href="https://dusto.top/">𝙳𝚞𝚜𝚝𝚘</a>
   </p>
 </section>
