@@ -44,3 +44,8 @@
     <a href="https://dusto.top/">𝙳𝚞𝚜𝚝𝚘</a>
   </p>
 </section>
+
+<section align="center">
+  <p>---</p>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fc4710n&count_bg=%23819E6A&title_bg=%23555555&title=PV&edge_flat=false" />
+</section>
