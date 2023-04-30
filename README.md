@@ -9,11 +9,11 @@
     𝗮𝗯𝗼𝘂𝘁 𝗺𝗲
   </p>
   <p align="center">
-    <a href="https://www.rising.land/">𝚒𝚗𝚝𝚛𝚘</a>
+    <a href="https://www.zekedou.live/">𝚒𝚗𝚝𝚛𝚘</a>
     ·
-    <a href="https://www.rising.land/posts">𝚙𝚘𝚜𝚝𝚜</a>
+    <a href="https://www.zekedou.live/posts">𝚙𝚘𝚜𝚝𝚜</a>
     ·
-    <a href="https://www.rising.land/careers">𝚌𝚊𝚛𝚎𝚎𝚛𝚜</a>
+    <a href="https://www.zekedou.live/careers">𝚌𝚊𝚛𝚎𝚎𝚛𝚜</a>
   </p>
 </section>
 
