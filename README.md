@@ -1,3 +1,3 @@
-- open source works: [`Cozy Elixir`](https://github.com/cozy-elixir) / [`Cozy Web`](https://github.com/cozy-web)
-- [open source contributions ➭](https://github.com/pulls?q=author%3Ac4710n)
+- [open source contributions](https://github.com/pulls?q=author%3Ac4710n)
+- other open source works: [`Cozy Elixir`](https://github.com/cozy-elixir) / [`Cozy Web`](https://github.com/cozy-web)
 - [more about me ➭](https://www.zekedou.live)
