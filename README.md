@@ -1,4 +1,4 @@
-- projects: [`Dusto`](https://dusto.top)
+- online projects: [`Dusto`](https://dusto.top) [`Elixir China`](elixir-china.zekedou.live)
 - open source works: [`Cozy Elixir`](https://github.com/cozy-elixir) [`Cozy Web`](https://github.com/cozy-web)
 - [open source contributions](https://github.com/pulls?q=author%3Ac4710n)
 - [more about me](https://www.zekedou.live)
