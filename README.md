@@ -5,4 +5,4 @@ My previous open-source contributions can be viewed [here](https://github.com/pu
 My new account is [@zekedou](https://github.com/zekedou).
 
 > Note:
-> To prevent impersonation attacks, this account will not be deleted but will be maintained in its current state.
+> As a security measure against impersonation attacks, this account will remain in its current state rather than being deactivated.
